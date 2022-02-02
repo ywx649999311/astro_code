@@ -1,2 +1,2 @@
-# This repo ...
+# Astro Related Snippets
 
